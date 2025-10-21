@@ -12,3 +12,34 @@ With the rapid development of modern infrastructure, we often fail to see the bu
 For this research, we will use the Centers for Disease Control and Prevention’s (CDC) Environmental Justice Index (EJI) dataset. The dataset integrates 36 environmental health indicators across five domains with socioeconomic variables, which is great for this area of study. We assume that low-income populations will face higher EJI scores, leading to greater risk. We aim to provide data for knowledge-based learning and awareness, and urban planning to decrease environmental injustices.
 
 Dataset: https://www.atsdr.cdc.gov/place-health/php/eji/index.html
+
+# Plan of Approach (draft)
+Step 1: Find and Understand the Data
+We will use the Environmental Justice Index (EJI) from the CDC. It includes data about pollution, health, and income levels. We’ll focus on New Mexico, especially areas with low-income communities, and analyze what each part of the dataset means.
+
+Step 2: Clean and Organize the Data
+Next, we’ll check the data for missing or incorrect information and transposed numbers and make sure all the numbers and units match. We’ll sort the data by location and income level so it’s easier to compare.
+
+Step 3: Analyze the Data
+We’ll look for patterns between income and environmental problems. Using Excel or Python, we’ll calculate averages and make graphs to see if lower-income areas have higher EJI scores or worse health outcomes.
+
+Step 4: Check and Simplify the Results
+We’ll double check our work to make sure the numbers and graphs are correct. Then, we’ll label everything clearly so the results are easy to understand.
+
+Step 5: Present the Findings
+Finally, we’ll show what we found and explain what it means for New Mexico. We’ll talk about how pollution and old uranium mining (or other things like trinity test site radiation) still affect some communities and how this data can help make fairer environmental decisions.
+
+# Team Member Contributions
+Noah Henry:  
+My task was to draft the project abstract to define the purpose of the project
+
+Elijah Rose:  
+
+
+Riley Cochrell:  
+I created a rough plan of approach for the project and will be doing data cleaning and processing, Github workflow management, and helping others where needed.
+
+Josh Pierce:  
+
+
+Luke Bennet:  
