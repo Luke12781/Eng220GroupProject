@@ -43,3 +43,4 @@ Josh Pierce:
 
 
 Luke Bennet:  
+I helped create the plan for the project and will be cleaing and preparing the data we'll be using.
