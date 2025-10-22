@@ -1,11 +1,6 @@
 # Eng220GroupProject
 
-# TM Contribution: Noah H
-
-My task was to draft the project abstract to define the purpose of the project
-
 # Abstract
-
 Project Abstract: 
 With the rapid development of modern infrastructure, we often fail to see the burden of environmental hazards and conditions that low-income communities and people of colour endure. Look no further than the native american tribes in New Mexico. During the 1940s and onward, uranium was mined, which affected the groundwater and air pollution, leading to significant health problems like cancer, kidney disease, and respiratory illnesses. The motive of this project is to investigate the extent to which environmental injustice affects different populations and communities. In this project, we will be observing communities that differ in income. We anticipate identifying where those low-income communities face higher environmental hardships, leading to health instability. 
 
@@ -30,11 +25,11 @@ Step 5: Present the Findings
 Finally, we’ll show what we found and explain what it means for New Mexico. We’ll talk about how pollution and old uranium mining (or other things like trinity test site radiation) still affect some communities and how this data can help make fairer environmental decisions.
 
 # Team Member Contributions
+Elijah Rose(PM):  
+My task was to manage the github repository and help to find the data we used for this project. in addition, as the PM of the group it is my responsibility to ensure that all of the necessary steps in the project are completed before the deadline.
+
 Noah Henry:  
 My task was to draft the project abstract to define the purpose of the project
-
-Elijah Rose:  
-My task was to manage the github repository and help to find the data we used for this project. in addition, as the PM of the group it is my responsibility to ensure that all of the necessary steps in the project are completed before the deadline.
 
 Riley Cochrell:  
 I created a rough plan of approach for the project and will be doing data cleaning and processing, Github workflow management, and helping others where needed.
@@ -45,4 +40,10 @@ Josh Pierce:
 Luke Bennet:  
 I helped create the plan for the project and will be cleaing and preparing the data we'll be using.
 
-#Conclusion
+# Conclusion
+This project was created to bring the issues caused by environmental factors that are faced by different lower income communities to light. we want to bring the problem of environmental justice to the attention of the reader. to accomplish this, we found a dataset from the CDC which contains relevant information on this topic. we hope to be able to use this data to show how lower income communities are affected by environmental changes disproportionately as compared to higher income communities.
+
+
+
+
+
