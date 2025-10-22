@@ -4,7 +4,7 @@
 
 My task was to draft the project abstract to define the purpose of the project
 
-# Abstract Draft
+# Abstract
 
 Project Abstract: 
 With the rapid development of modern infrastructure, we often fail to see the burden of environmental hazards and conditions that low-income communities and people of colour endure. Look no further than the native american tribes in New Mexico. During the 1940s and onward, uranium was mined, which affected the groundwater and air pollution, leading to significant health problems like cancer, kidney disease, and respiratory illnesses. The motive of this project is to investigate the extent to which environmental injustice affects different populations and communities. In this project, we will be observing communities that differ in income. We anticipate identifying where those low-income communities face higher environmental hardships, leading to health instability. 
@@ -13,7 +13,7 @@ For this research, we will use the Centers for Disease Control and Prevention’
 
 Dataset: https://www.atsdr.cdc.gov/place-health/php/eji/index.html
 
-# Plan of Approach (draft)
+# Plan of Approach
 Step 1: Find and Understand the Data
 We will use the Environmental Justice Index (EJI) from the CDC. It includes data about pollution, health, and income levels. We’ll focus on New Mexico, especially areas with low-income communities, and analyze what each part of the dataset means.
 
@@ -34,7 +34,7 @@ Noah Henry:
 My task was to draft the project abstract to define the purpose of the project
 
 Elijah Rose:  
-My task was to manage the github repository and help to find the data we used for this project. in addition, as the PM of the group it is my responsibility to ensure that all of the necessary steps in the project are completed.
+My task was to manage the github repository and help to find the data we used for this project. in addition, as the PM of the group it is my responsibility to ensure that all of the necessary steps in the project are completed before the deadline.
 
 Riley Cochrell:  
 I created a rough plan of approach for the project and will be doing data cleaning and processing, Github workflow management, and helping others where needed.
@@ -44,3 +44,5 @@ Josh Pierce:
 
 Luke Bennet:  
 I helped create the plan for the project and will be cleaing and preparing the data we'll be using.
+
+#Conclusion
