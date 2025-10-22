@@ -34,7 +34,7 @@ Noah Henry:
 My task was to draft the project abstract to define the purpose of the project
 
 Elijah Rose:  
-
+My task was to manage the github repository and help to find the data we used for this project. in addition, as the PM of the group it is my responsibility to ensure that all of the necessary steps in the project are completed.
 
 Riley Cochrell:  
 I created a rough plan of approach for the project and will be doing data cleaning and processing, Github workflow management, and helping others where needed.
