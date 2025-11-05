@@ -29,8 +29,8 @@ st.info("🔴 Rows highlighted in red represent areas with **Very High Concern/B
 # --- LOAD DATA ---+bug
 @st.cache_data
 def load_data():
-    state_url = "https://github.com/rileycochrell/rc-EJI-Visualization-NM/raw/refs/heads/main/data/EJI_StateAverages_RPL.csv"
-    county_url = "https://github.com/rileycochrell/rc-EJI-Visualization-NM/raw/refs/heads/main/data/EJI_NewMexico_CountyMeans.csv"
+    state_url = "https://github.com/rileycochrell/Eng220GroupProject/raw/refs/heads/main/data/clean/EJI_StateAverages_RPL.csv"
+    county_url = "https://github.com/rileycochrell/Eng220GroupProject/raw/refs/heads/main/data/clean/EJI_NewMexico_CountyMeans.csv"
     try:
         state_df = pd.read_csv(state_url)
         county_df = pd.read_csv(county_url)
