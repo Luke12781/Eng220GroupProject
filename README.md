@@ -2,7 +2,7 @@
 
 # 🌎 Environmental Justice Index Visualization (New Mexico)
 
-
+<!-- we're gonna need to switch this when the app is made -->
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rc-eji-visualization-nm-vhlnxpvuqsbw2fgo3qedvu.streamlit.app/)
 
 
