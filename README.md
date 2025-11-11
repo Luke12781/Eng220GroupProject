@@ -38,7 +38,7 @@ My task was to manage the github repository and help to find the data we used fo
 My task was to draft the project abstract to define the purpose of the project
 
 #### Riley Cochrell:  
-I created a rough plan of approach for the project, did the data cleaning and processing, designed the streamlit app, created some images and charts to explain what the data shows, and wrote the code for analyzing, explaining, and displaying the cleaned data.
+I developed the project plan, cleaned and processed the CDC data, designed and built the Streamlit app, created visualizations and explanatory graphics, and wrote the code to analyze, interpret, and display the cleaned data interactively.
 
 #### Josh Pierce:  
 
